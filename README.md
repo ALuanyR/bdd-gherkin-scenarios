@@ -66,20 +66,6 @@ Os testes utilizam a sintaxe Gherkin em português com estrutura:
 - **Quando** (When): Ações realizadas
 - **Então** (Then): Resultados esperados
 
-## 👥 Contribuindo
-
-Sinta-se à vontade para contribuir com novos cenários de teste ou melhorias nos existentes.
-
-1. Faça um Fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona novos testes'`)
-4. Push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT.
-
-## 📞 Contato
-
-Para dúvidas ou sugestões sobre os testes, entre em contato ou abra uma issue no repositório.
